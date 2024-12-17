@@ -11,7 +11,7 @@ It conists of two key elemets:
 
 # ESP32
 It is used as the main processor for this project which controlls all the device side data of a cyber physical system. It runs a C application for reading data from BMP32 and transmitting over a LoRa communication.
-# BMP32
+# BMP280
 It is used to sense the environmental temperature.
 # LoRa
 It  is used as a main communication protocol
